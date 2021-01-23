@@ -1,4 +1,16 @@
 ### Hi there 👋
+![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
+***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&hide=Jupyter_Notebook&layout=compact&theme=react)
+![Ryuyxx's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)
+
+
+
+<!--
+[![Ryuyxx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryuyxx&layout=compact&theme=react)](https://github.com/Ryuyxx/github-readme-stats)
+-->
+
+
 
 <!--
 **Ryuyxx/Ryuyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
