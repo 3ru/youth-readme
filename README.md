@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 ![Ryuyxx's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&hide=jupyter%20notebook&layout=compact&theme=react)  
 
@@ -8,10 +9,6 @@
 -->
 ***
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
-
-
-
-
 
 
 <!--
@@ -27,4 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning ML/DL
+- 💬 Ask me about future world
+- ⚡ Fun fact: I am AI is palindrome and I'm actually AI 
 -->
