@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Ryuyxx's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&hide=jupyter%20notebook&layout=compact&theme=react) -->
+![Ryuyxx's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&hide=jupyter%20notebook&layout=compact&theme=react)  
+
+<!--
 ![Ryuyxx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryuyxx&layout=compact&theme=react)
+-->
 ***
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
 
