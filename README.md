@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media.giphy.com/media/mLOb56l2DQUCs/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/1BGPAdOLHOB5Js1Ahp/giphy.gif" width="220">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
 
