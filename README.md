@@ -22,7 +22,7 @@
 
 </details>  
 
-<details><summary>📌 Week Stats</summary>
+<details><summary>📆 Week Stats</summary>
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryuyxx&layout=compact&theme=react)
 </details>
