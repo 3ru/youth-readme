@@ -13,7 +13,7 @@
 <img align="right" src="https://media.giphy.com/media/vpioNfKK8OFGHuUDMz/giphy.gif" width="300">
 
 - 🌱 **I’m currently learning:**  ML/DL  
-- 💬 **Ask me about:**  Sci-Fi movie
+- 💬 **Ask me about:**  Anythin! / Sci-Fi movie
 - 💙 **I LOVE BUILDING COMPUTERS!!**  [M-ITX mainly]
   - My Baby Specs
   - Ryzen™ 9 5950X
