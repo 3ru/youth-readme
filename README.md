@@ -1,4 +1,4 @@
-### Hi there ❄️
+### Hi there ⛄
 
 <img align="right" src="https://media.giphy.com/media/cs9AnwADBj60g/giphy.gif" width="150">
 
