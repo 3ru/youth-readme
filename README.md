@@ -2,10 +2,10 @@
 
 <img align="right" src="https://media.giphy.com/media/cs9AnwADBj60g/giphy.gif" width="150">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=nord&title=Joined2020,PR,Commit,Repositories,Followers,Issues,MultiLanguage)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&layout=compact&theme=react)
+![stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=nord&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&layout=compact&theme=nord)
 
 
 
