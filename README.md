@@ -2,7 +2,7 @@
 
 [comment]: <> (<img align="right" src="https://media.giphy.com/media/cs9AnwADBj60g/giphy.gif" width="130" alt="me">)
 
-<img src="https://github-profile-trophy.vercel.app/?username=3ru&theme=nord&column=7&no-frame=true&title=Joined2020,PR,Commit,Repositories,Followers,MultiLanguage,Organizations" alt="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=3ru&theme=nord&column=7&no-frame=true&title=Joined2020,PR,Commit,Issues,Repositories,Followers,MultiLanguage,Organizations" alt="trophy">
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=3ru&count_private=true&show_icons=true&theme=nord&hide=stars" width="430" alt="me">
